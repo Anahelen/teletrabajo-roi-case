@@ -74,7 +74,7 @@ Implementar un modelo de trabajo híbrido basado en resultados:
 - Inversión inicial en herramientas vs ahorro a largo plazo
 
 ## Evaluación financiera
-Para estimar el impacto económico del teletrabajo, se desarrolló una **Calculadora de ROI**, incluida en este repositorio, que permite estimar ahorros y retorno esperado al adoptar un modelo híbrido o remoto.
+Para estimar el impacto económico del teletrabajo, se desarrolló una **Calculadora de ROI**, incluida en este repositorio, que permite estimar ahorros y retorno esperado al adoptar un modelo híbrido o remoto [Ir a la calculadora](roi-calculator/README.md)
 
 ## Conclusión
 El teletrabajo representa una oportunidad estratégica para las empresas LATAM que buscan reducir costos, atraer talento y competir en un mercado global cada vez más distribuido.

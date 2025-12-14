@@ -33,10 +33,9 @@ Adoptar un modelo híbrido o remoto estructurado mejora métricas de talento y r
 ## Análisis financiero
 Este repositorio incluye una **Calculadora de ROI** para estimar el impacto económico del teletrabajo.
 
-👉 [Ir a la calculadora de ROI](roi-calculator/README.md)
+👉 [Ir a la calculadora de ROI](roi-calculator/README.md) [](url)
 
-## Ejemplo de métricas simuladas
-![Costos operativos: presencial vs híbrido](charts/costos_vs_reten.png)
+## Métricas simuladas (https://lookerstudio.google.com/u/0/reporting/678bb52f-80ed-4d83-a37c-01c39c5812e7/page/3CpiF)
 
 ## Conclusión
 El teletrabajo representa una oportunidad estratégica para empresas LATAM que buscan eficiencia y competitividad.

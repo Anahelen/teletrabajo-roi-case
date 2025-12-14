@@ -1,23 +1,21 @@
 # Calculadora de ROI – Teletrabajo
 
-Esta calculadora estima el retorno de inversión (ROI) de implementar un modelo de teletrabajo o híbrido.
-
-## ¿Para qué sirve?
-Permite estimar:
-- Ahorros en costos de oficina
-- Impacto de la reducción de rotación
-- ROI anual estimado
+Esta herramienta permite estimar el retorno de inversión de implementar un modelo de teletrabajo o híbrido.
 
 ## Inputs
-- Cantidad de empleados
+- Número de empleados
 - Costo mensual de oficina por empleado
 - Tasa de rotación anual
-- Costo promedio de reemplazo por empleado
+- Costo de reemplazo por empleado
 
 ## Outputs
-- Ahorro anual total
-- Ahorro por menor rotación
+- Ahorro anual en costos de oficina
+- Ahorro por reducción de rotación
 - ROI estimado
 
-## Volver al caso principal
-[← Volver al Product Case Study](../README.md)
+## Supuestos
+- Datos simulados
+- Análisis ilustrativo
+- No incluye variables macroeconómicas
+
+[← Volver al caso principal](../README.md)

@@ -36,7 +36,7 @@ Este repositorio incluye una **Calculadora de ROI** para estimar el impacto econ
 👉 [Ir a la calculadora de ROI](roi-calculator/README.md) [](url)
 
 ## Métricas simuladas 
-[![Vista Looker](https://lookerstudio.google.com/reporting/678bb52f-80ed-4d83-a37c-01c39c5812e7)
+[Vista Looker](https://lookerstudio.google.com/reporting/678bb52f-80ed-4d83-a37c-01c39c5812e7)
 
 ## Conclusión
 El teletrabajo representa una oportunidad estratégica para empresas LATAM que buscan eficiencia y competitividad.
